@@ -1,2 +1,2 @@
-# Entropy-Codes
-A guide to the various novel entropy profiling codes we have developed.
+# Matlab code for Entropy Profiling
+This is our implementation of various entropy profiling approaches.
