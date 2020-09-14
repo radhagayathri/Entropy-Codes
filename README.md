@@ -7,8 +7,7 @@ Palaniswami. Approximate entropy profile: a novel approach to comprehend irregul
 1–15, 2016. 
 * Radhagayathri K Udhayakumar, Chandan Karmakar, and Marimuthu
 Palaniswami. Understanding irregularity characteristics of short-term
-hrv signals using sample entropy profile. IEEE Trans Biomed Eng,
-2018.  
+hrv signals using sample entropy profile. IEEE Trans Biomed Eng, 2018.  
 
 
 ### Contact:
